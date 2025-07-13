@@ -18,7 +18,7 @@ This project demonstrates the deployment of a secure, scalable, and highly avail
 
 ## 🖼️ Architecture Diagram
 
-![Architecture Diagram](diagram.png)
+![Architecture Diagram](architecture.png)
 
 ---
 
